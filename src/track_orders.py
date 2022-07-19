@@ -1,4 +1,4 @@
-from src.analyze_log import best_seller, how_many_request, never_requested, day_never_used
+from src.analyze_log import best_seller, never_requested, day_never_used
 
 class TrackOrders:
     def __init__(self):
