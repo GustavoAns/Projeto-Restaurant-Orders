@@ -1,6 +1,3 @@
-import re
-
-
 class InventoryControl:
     INGREDIENTS = {
         "hamburguer": ["pao", "carne", "queijo"],
